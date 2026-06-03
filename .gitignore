@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Streamlit secrets (keep private)
+.streamlit/secrets.toml
+
+# Doc folder
+doc/
